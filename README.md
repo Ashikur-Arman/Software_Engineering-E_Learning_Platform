@@ -1,4 +1,3 @@
-![Image](https://github.com/user-attachments/assets/4ab463ef-fc11-4631-8d7e-946087c042b0)
 # E-Learning Platform with Interactive Features
 
 ## Level-3 Semester-I Project Report
