@@ -35,13 +35,13 @@ Dinajpur-5200
 - [Future Work](#future_Work)
 - [Key Benefits of Using Agile for This Project](#key-benefits-of-using-agile-for-this-project)
 - [Conclusion](#conclusion)
-- [References](#eeferences)
+- [References](#references)
 
 
 
 
 ## Figures
-- [Fig: UML Diagram of the Project](#UML_Diagramt)
+- [Fig: UML Diagram of the Project](#uml_diagramt)
 
 
 
@@ -111,7 +111,7 @@ The platform was deployed on a cloud-based hosting service (e.g., AWS, Azure) to
 ## UML Diagram
 ![Image](https://github.com/user-attachments/assets/4ab463ef-fc11-4631-8d7e-946087c042b0)
 
-      Fig: UML_Diagram of the Project
+      Fig: UML Diagram of the project
 
 
 ## Maintenance and Continuous Improvement
