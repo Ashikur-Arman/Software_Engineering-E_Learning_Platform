@@ -41,7 +41,7 @@ Dinajpur-5200
 
 
 ## Figures
-- [Fig: UML Diagram of the Project](#fig-uml-diagram-of-the-Project)
+- [Fig: UML Diagram of the Project](#UML_Diagramt)
 
 
 ## Abstract
@@ -106,7 +106,7 @@ The platform was deployed on a cloud-based hosting service (e.g., AWS, Azure) to
 ## UML Diagram
 ![Image](https://github.com/user-attachments/assets/4ab463ef-fc11-4631-8d7e-946087c042b0)
 
-                Fig: UML Diagram of the Project
+      Fig: UML Diagram of the Project
 
 
 ## Maintenance and Continuous Improvement
