@@ -41,7 +41,7 @@ Dinajpur-5200
 
 
 ## Figures
-- [Fig: UML Diagram of the Project](#fig:_uml_diagram_of_the_projectt)
+- [Fig: UML Diagram of the Project](#fig_uml_diagram_of_the_projectt)
 
 
 
