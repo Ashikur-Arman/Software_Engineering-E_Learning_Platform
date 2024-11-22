@@ -29,6 +29,7 @@ Dinajpur-5200
 - [Development (Iterations/Sprints)](#development-iterations-sprints)
 - [Testing and Feedback](#testing-and-feedback)
 - [Deployment](#deployment)
+- [UML Diagram](#uml_diagram)
 - [Maintenance and Continuous Improvement](#maintenance-and-continuous-improvement)
 - [Limitations](#limitations)
 - [Future Work](#future_Work)
@@ -101,6 +102,12 @@ Testing was conducted continuously during each sprint. Unit tests, integration t
 
 ## Deployment
 The platform was deployed on a cloud-based hosting service (e.g., AWS, Azure) to ensure scalability and high availability. A CI/CD pipeline was set up for automatic deployment, ensuring that any future updates are implemented seamlessly. Load testing was performed to verify the platform's performance under varying levels of user activity.
+
+## UML Diagram
+![Image](https://github.com/user-attachments/assets/4ab463ef-fc11-4631-8d7e-946087c042b0)
+
+                             Fig: UML Diagram of the Project
+
 
 ## Maintenance and Continuous Improvement
 Post-deployment, a maintenance plan was established to monitor system health, apply security patches, and update content regularly. Continuous feedback from users was used to prioritize new features and improvements. Regular backups, monitoring, and performance optimization were conducted to ensure long-term sustainability and security.
