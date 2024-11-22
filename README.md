@@ -52,7 +52,6 @@ The primary goal of this project is to create a user-friendly E-Learning platfor
 
 ## User Requirements and System Requirements
 ### User Requirements
-```bash
 1. User-friendly interface accessible to learners of different age groups.
 2. Interactive learning tools, including quizzes, simulations, and interactive videos.
 3. Support for multimedia content (audio, video, documents).
@@ -61,11 +60,10 @@ The primary goal of this project is to create a user-friendly E-Learning platfor
 6. Mobile-friendly and accessible via web browsers.
 7. Option to track progress and earn certificates.
 8. Feedback system for learners and educators.
-```
+
 
 
 ### System Requirements
-```bash
 1. A reliable web server with high uptime.
 2. Secure user authentication and role management.
 3. Database for storing user data, course material, and progress tracking.
@@ -74,7 +72,7 @@ The primary goal of this project is to create a user-friendly E-Learning platfor
 6. Compatibility with major browsers and mobile devices.
 7. Real-time communication tools (WebSocket or similar).
 8. Robust analytics for tracking user engagement and performance.
-```
+
 
 ## Design and Architecture
 The system is built using a modular architecture to ensure scalability and ease of maintenance. The key components include:
@@ -88,7 +86,6 @@ The system is built using a modular architecture to ensure scalability and ease 
 
 ## Development (Iterations/Sprints)
 The project was developed over several Agile sprints:
-```bash
 Sprint 1: Requirement analysis, creation of wireframes, and project setup.
 Sprint 2: Development of the core user interface, user registration, and login functionality.
 Sprint 3: Integration of content management features and multimedia support.
@@ -96,7 +93,6 @@ Sprint 4: Development of interactive quizzes and progress tracking.
 Sprint 5: Implementation of real-time collaboration tools and forums.
 Sprint 6: System testing, bug fixing, and feedback incorporation.
 Sprint 7: Final testing, UI improvements, and preparation for deployment.
-```
 
 ## Testing and Feedback
 Testing was conducted continuously during each sprint. Unit tests, integration tests, and system tests ensured that each component functioned correctly. User feedback was gathered from a pilot group of educators and students, leading to adjustments in the user interface, navigation, and feature set. Usability tests were also performed to assess the platform's ease of use.
@@ -139,5 +135,3 @@ The E-Learning platform with an interactive method successfully addressed the ch
 3. "Best Practices in E-Learning Platform Development." EdTech Magazine. https://edtechmagazine.com
 4. "Web Development with React." MDN Web Docs. https://developer.mozilla.org
 5. "Effective Use of Multimedia in Online Education." Journal of Educational Technology. https://jet.sagepub.com
-
-
