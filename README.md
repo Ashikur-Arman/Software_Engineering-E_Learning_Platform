@@ -137,3 +137,5 @@ The E-Learning platform with an interactive method successfully addressed the ch
 3. "Best Practices in E-Learning Platform Development." EdTech Magazine. https://edtechmagazine.com
 4. "Web Development with React." MDN Web Docs. https://developer.mozilla.org
 5. "Effective Use of Multimedia in Online Education." Journal of Educational Technology. https://jet.sagepub.com
+
+
