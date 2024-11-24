@@ -23,7 +23,7 @@ Dinajpur-5200
 
 - [Abstract](#abstract)
 - [Introduction](#introduction)
-- [SDLC Model: Agile Model](#sdlc_model:agile_model)
+- [SDLC Model: Agile Model](#sdlc_model_agile_model)
 - [Project Vision and Planning](#project-vision-and-planning)
 - [User Requirements and System Requirements](#user-requirements-and-system-requirements)
 - [Design and Architecture](#design-and-architecture)
@@ -186,4 +186,4 @@ The E-Learning platform with an interactive method successfully addressed the ch
 3. "Best Practices in E-Learning Platform Development." EdTech Magazine. https://edtechmagazine.com
 4. "Web Development with React." MDN Web Docs. https://developer.mozilla.org
 5. "Effective Use of Multimedia in Online Education." Journal of Educational Technology. https://jet.sagepub.com
-6. UML diagram is made with https://www.plantuml.com
+6. UML_diagram is made with https://www.plantuml.com
