@@ -43,6 +43,9 @@ Dinajpur-5200
 ## Figures
 - [Fig: UML Diagram of the Project](#fig_uml_diagram_of_the_projectt)
 
+## Table
+- [Test Cases for E-Learning Platform with Interactive Method](#test_cases_for_e-learning_platform_with_nteractive_Method)
+
 
 
 
@@ -103,6 +106,22 @@ Sprint 7: Final testing, UI improvements, and preparation for deployment.
 
 ## Testing and Feedback
 Testing was conducted continuously during each sprint. Unit tests, integration tests, and system tests ensured that each component functioned correctly. User feedback was gathered from a pilot group of educators and students, leading to adjustments in the user interface, navigation, and feature set. Usability tests were also performed to assess the platform's ease of use.
+
+## Table: Test Cases for E-Learning Platform with Interactive Method
+
+| **Test Case ID** | **Test Case Description**            | **Preconditions**                      | **Test Steps**                                             | **Expected Result**                                           | **Status** |
+|------------------|-------------------------------------|----------------------------------------|-------------------------------------------------------------|---------------------------------------------------------------|------------|
+| TC-01             | User Registration with Valid Data   | User is on the registration page       | 1. Enter valid details. <br> 2. Click "Register".           | User account is created successfully.                         | Pass       |
+| TC-02             | Login with Incorrect Password       | User is on the login page              | 1. Enter valid username, incorrect password. <br> 2. Click "Login". | Error message “Invalid credentials” is shown.               | Pass       |
+| TC-03             | Access Course Content               | User is logged in and enrolled         | 1. Click on an enrolled course.                             | Course content is accessible with all materials.              | Pass       |
+| TC-04             | Submit an Interactive Quiz          | User is taking a quiz                  | 1. Complete the quiz. <br> 2. Click "Submit".               | Quiz results are displayed with a score summary.               | Pass       |
+| TC-05             | Update Profile Information          | User is logged in                      | 1. Go to profile. <br> 2. Update info. <br> 3. Save changes. | Profile information is updated and saved successfully.         | Pass       |
+| TC-06             | View Leaderboard                    | User has completed quizzes             | 1. Go to the leaderboard.                                   | Leaderboard displays user rankings accurately.                 | Pass       |
+| TC-07             | Password Reset                      | User has forgotten password            | 1. Click "Forgot Password". <br> 2. Follow reset link.      | User can reset password via email link.                        | Pass       |
+| TC-08             | Enroll in a New Course              | User is logged in                      | 1. Find a course. <br> 2. Click "Enroll".                   | User is enrolled and course content is available.              | Pass       |
+| TC-09             | Interactive Video Playback          | Course has interactive videos          | 1. Play an interactive video.                               | Video plays, allowing interaction at set checkpoints.          | Pass       |
+| TC-10             | Content Search by Keyword           | User is logged in                      | 1. Search using a keyword.                                  | Relevant content is displayed based on the search keyword.     | Pass       |
+
 
 
 ## Deployment
