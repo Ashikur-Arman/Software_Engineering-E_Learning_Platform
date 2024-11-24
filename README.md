@@ -23,6 +23,7 @@ Dinajpur-5200
 
 - [Abstract](#abstract)
 - [Introduction](#introduction)
+- [SDLC Model: Agile Model](#sdlc_model:agile_model)
 - [Project Vision and Planning](#project-vision-and-planning)
 - [User Requirements and System Requirements](#user-requirements-and-system-requirements)
 - [Design and Architecture](#design-and-architecture)
@@ -55,6 +56,23 @@ This project report outlines the development of an E-Learning platform designed 
 
 ## Introduction
 In the digital age, E-Learning platforms have become essential tools for accessible education. However, traditional E-Learning methods often struggle to keep learners engaged. The project introduces an E-Learning platform focused on an interactive learning approach, making education more dynamic, enjoyable, and effective. By incorporating interactive elements, students can engage with the content in a more hands-on manner, improving retention and understanding.
+
+## SDLC Model: Agile Model
+![Image](https://github.com/user-attachments/assets/bc91ae4c-0684-47fd-a8d9-a4b2bccf6764)
+
+### Why the Incremental Model?
+The Agile model is chosen for the E-Learning Platform with Interactive Features due to its flexibility, iterative development, and focus on continuous improvement. Key features of Agile include:
+
+1. Iterative Development: Development is broken into short sprints, delivering working features frequently, ensuring continuous feedback and quick adjustments.
+2. Customer Collaboration: Close communication with users ensures the platform evolves to meet their needs.
+3. Flexibility: Agile adapts to changing requirements, allowing new features to be added based on user demand.
+4. Continuous Delivery: Regular releases ensure a Minimum Viable Product (MVP) is available early, with ongoing updates.
+5. Cross-Team Collaboration: Developers, designers, and stakeholders work together to integrate features seamlessly.
+6. Quality Assurance: Testing is integrated into every sprint, ensuring issues are caught early.
+7. Transparency: Regular meetings and reviews keep the team aligned with user needs and goals.
+8. Risk Management: Iterative testing identifies and mitigates risks early.
+9. Customer Satisfaction: Frequent feedback ensures the platform meets user expectations.
+Agile's flexibility, speed, and user-centered approach make it ideal for the E-Learning platform, ensuring it remains adaptable and effective.
 
 ## Project Vision and Planning
 The primary goal of this project is to create a user-friendly E-Learning platform that encourages interactive learning through multimedia content, gamified quizzes, discussion forums, and live collaboration tools. The project is planned using Agile methodology, with iterative development and frequent user feedback to refine the platform's features. A detailed project timeline was established, including phases for requirement gathering, design, development, testing, deployment, and post-launch support.
@@ -168,4 +186,4 @@ The E-Learning platform with an interactive method successfully addressed the ch
 3. "Best Practices in E-Learning Platform Development." EdTech Magazine. https://edtechmagazine.com
 4. "Web Development with React." MDN Web Docs. https://developer.mozilla.org
 5. "Effective Use of Multimedia in Online Education." Journal of Educational Technology. https://jet.sagepub.com
-6. UML_diagram is made with https://www.plantuml.com
+6. UML diagram is made with https://www.plantuml.com
