@@ -60,7 +60,7 @@ In the digital age, E-Learning platforms have become essential tools for accessi
 ## SDLC Model: Agile Model
 ![Image](https://github.com/user-attachments/assets/bc91ae4c-0684-47fd-a8d9-a4b2bccf6764)
 
-### Why the Incremental Model?
+### Why the Agile Model?
 The Agile model is chosen for the E-Learning Platform with Interactive Features due to its flexibility, iterative development, and focus on continuous improvement. Key features of Agile include:
 
 1. Iterative Development: Development is broken into short sprints, delivering working features frequently, ensuring continuous feedback and quick adjustments.
